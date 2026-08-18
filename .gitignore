@@ -1,0 +1,65 @@
+# ============================================================
+# InterviewAI / securityHost .gitignore
+# ============================================================
+
+# --- Build Outputs & Intermediates ---
+c++/build/
+Final_Interview/Output/
+Final_Interview/CombinedOutput/
+Final_Interview/Package/
+hider_kingmain/embed_resources.o
+hider_kingmain/pavans_res.o
+hider_kingmain/pavans.exe
+hider_kingmain/TaskManagerHack.dll
+hider_kingmain/AccessibilityHelper.exe
+
+# --- Object files and executables ---
+*.o
+*.obj
+*.lib
+*.exp
+
+# Ignore all executables and zip archives by default...
+*.exe
+*.zip
+
+# ...EXCEPT for the release binaries tracked for GitHub releases
+!securityHost.exe
+!securityHost.zip
+
+# --- Legacy binaries (Purged) ---
+pavans_w.exe
+pavans_w.zip
+
+# --- CMake Artifacts ---
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+build.ninja
+.ninja_log
+.ninja_deps
+
+# --- Temporary & Session Files ---
+*.log
+*.tmp
+*.bak
+login_session.json
+chat_session.json
+
+# --- IDE & System Folders ---
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosv
+*.sln
+*.vcxproj
+*.vcxproj.filters
+.DS_Store
+Thumbs.db
