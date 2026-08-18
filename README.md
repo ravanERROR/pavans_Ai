@@ -40,7 +40,7 @@
 
 ## 🌟 Key Features
 
-- 🛡️ **100% Screen Share Immunity**: Built-in screen privacy protection. The application window is completely hidden from video feeds on **Zoom**, **Microsoft Teams**, **Google Meet**, and screen recording tools while remaining crystal clear on your display.
+- 🛡️ **100% Screen Share Immunity**: Built-in screen privacy protection. The application window is completely hidden from video feeds and screen shares on **Zoom**, **Slack**, **Cisco Webex**, **Microsoft Teams**, **Google Meet**, **Skype**, **Discord**, **TeamViewer**, **AnyDesk**, **GoToMeeting**, and all screen recording tools while remaining crystal clear on your display.
 - 👁️‍🗨️ **Discreet Taskbar & Alt+Tab Hiding**: Excludes the application window from your Windows taskbar, Alt+Tab app switcher, and Windows Peek for absolute discretion.
 - 🔒 **Task Manager Process Camouflage**: Operates as a lightweight background process with process camouflage and zero memory overhead to remain completely unnoticed.
 - 🧠 **Multi-Brain AI Engine Matrix**: Connects multiple top-tier AI providers with automatic key rotation and instant failover for zero downtime.
