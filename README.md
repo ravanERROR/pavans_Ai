@@ -114,7 +114,7 @@ If Windows SmartScreen displays a notice:
 ### 🎯 Step 4: Start Interview Assistant
 1. Run `securityHost.exe` to launch the application.
 2. allow adminstrator access to the application.
-3. Join your interview call on Zoom or Teams.
+3. Join your interview call on Zoom or Teams or any other platforms.
 4. Use `Ctrl+H` for screen snapshots or let the speaker listener transcribe interviewer questions in real time!
 
 ---
@@ -140,7 +140,21 @@ If using managed access passes:
 <details>
 <summary><b>1. Is InterviewAI really hidden when I share my screen on Zoom or Teams?</b></summary>
 <br>
-Yes, 100%. InterviewAI uses built-in screen privacy protection that prevents screen sharing applications like Zoom, Microsoft Teams, and Google Meet from capturing the assistant window. It remains fully visible to you while appearing invisible to others.
+Yes, 100%. InterviewAI uses built-in screen privacy protection that prevents screen sharing applications from capturing the assistant window. It remains fully visible to you while appearing invisible to others.
+
+<br/>
+
+**Compatible & Undetectable with All Platforms:**
+- 🔷 **Zoom**
+- 💬 **Slack**
+- 🌐 **Cisco Webex**
+- 👥 **Microsoft Teams**
+- 📹 **Google Meet**
+- 📞 **Skype**
+- 🎮 **Discord**
+- 🖥️ **TeamViewer**
+- ⚡ **AnyDesk**
+- 📹 **GoToMeeting**
 </details>
 
 <details>
