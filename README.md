@@ -9,21 +9,21 @@
 
   <!-- Status Badges -->
   <p align="center">
-    <a href="https://github.com/ravanERROR/pavans_Ai/releases"><img src="https://img.shields.io/badge/Release-Latest-00f2fe?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00f2fe" alt="Release"></a>
-    <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-7000ff?style=for-the-badge&labelColor=0d1117&logo=windows&logoColor=7000ff" alt="Platform"></a>
+    <a href="https://github.com/ravanERROR/pavans_Ai/releases"><img src="https://img.shields.io/badge/Release-v1.0.77--Latest-00f2fe?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00f2fe" alt="Release"></a>
+    <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-7000ff?style=for-the-badge&labelColor=0d1117&logo=windows&logoColor=7000ff" alt="Platform"></a>
     <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Privacy-100%25%20Screen%20Share%20Invisible-00f5a0?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=00f5a0" alt="Privacy"></a>
   </p>
 
   <br>
 
-  <!-- Animated High-Visibility Download Buttons -->
+  <!-- High-Visibility Download Buttons (Guaranteed 100% GitHub Rendering) -->
   <p align="center">
     <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=20&duration=2000&pause=500&color=00F5A0&background=0F172A&center=true&vCenter=true&width=380&height=60&lines=⚡+DIRECT+DOWNLOAD+ZIP;📦+securityHost.zip+(Latest);🚀+CLICK+TO+DOWNLOAD+NOW" alt="Animated Download ZIP Button" />
+      <img src="https://img.shields.io/badge/⚡_DIRECT_DOWNLOAD-securityHost.zip-00f5a0?style=for-the-badge&labelColor=0d1117&color=00f5a0&logo=windows&logoColor=00f5a0" height="52" alt="Download ZIP">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=20&duration=2000&pause=500&color=00F2FE&background=0F172A&center=true&vCenter=true&width=380&height=60&lines=📦+DOWNLOAD+STANDALONE+EXE;⚡+securityHost.exe+(Direct);🔥+INSTANT+WINDOWS+EXE" alt="Animated Download EXE Button" />
+      <img src="https://img.shields.io/badge/📦_DOWNLOAD_EXE-securityHost.exe-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe&logo=windows&logoColor=00f2fe" height="52" alt="Download EXE">
     </a>
   </p>
 
@@ -79,16 +79,16 @@ Click a direct download button below to get the latest release:
 
 <p align="center">
   <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=18&duration=2000&pause=500&color=00F5A0&background=0F172A&center=true&vCenter=true&width=340&height=52&lines=⬇️+DIRECT+DOWNLOAD+ZIP;📦+securityHost.zip" alt="Download ZIP" />
+    <img src="https://img.shields.io/badge/⬇️_DIRECT_DOWNLOAD-securityHost.zip-00f5a0?style=for-the-badge&labelColor=0d1117&color=00f5a0&logo=windows&logoColor=00f5a0" height="46" alt="Download ZIP">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=18&duration=2000&pause=500&color=00F2FE&background=0F172A&center=true&vCenter=true&width=340&height=52&lines=📦+DOWNLOAD+EXE;⚡+securityHost.exe" alt="Download EXE" />
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_EXE-securityHost.exe-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe&logo=windows&logoColor=00f2fe" height="46" alt="Download EXE">
   </a>
 </p>
 
-- **ZIP Archive (Recommended)**: Download [`pavans_w.zip`](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/pavans_w.zip) and extract it to any folder.
-- **Standalone Executable**: Download [`pavans_w.exe`](https://github.com/ravanERROR/pavans_Ai/raw/main/pavans_w.exe).
+- **ZIP Archive (Recommended)**: Download [`securityHost.zip`](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip) and extract it to any folder.
+- **Standalone Executable**: Download [`securityHost.exe`](https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe).
 
 ---
 
@@ -105,7 +105,7 @@ If Windows SmartScreen displays a notice:
 ---
 
 ### 🎯 Step 4: Start Interview Assistant
-1. Run `pavans_w.exe` to launch the application.
+1. Run `securityHost.exe` to launch the application.
 2. allow adminstrator access to the application.
 3. Join your interview call on Zoom or Teams.
 4. Use `Ctrl+H` for screen snapshots or let the speaker listener transcribe interviewer questions in real time!
