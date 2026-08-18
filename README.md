@@ -18,12 +18,12 @@
 
   <!-- High-Visibility Download Buttons (Guaranteed 100% GitHub Rendering) -->
   <p align="center">
-    <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
-      <img src="https://img.shields.io/badge/⚡_DIRECT_DOWNLOAD-securityHost.zip-00f5a0?style=for-the-badge&labelColor=0d1117&color=00f5a0&logo=windows&logoColor=00f5a0" height="52" alt="Download ZIP">
+    <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.exe">
+      <img src="https://img.shields.io/badge/⚡_DIRECT_DOWNLOAD-securityHost.exe_(Latest_Release)-00f5a0?style=for-the-badge&labelColor=0d1117&color=00f5a0&logo=windows&logoColor=00f5a0" height="52" alt="Download EXE">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe">
-      <img src="https://img.shields.io/badge/📦_DOWNLOAD_EXE-securityHost.exe-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe&logo=windows&logoColor=00f2fe" height="52" alt="Download EXE">
+    <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
+      <img src="https://img.shields.io/badge/📦_DOWNLOAD_ZIP-securityHost.zip-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe&logo=windows&logoColor=00f2fe" height="52" alt="Download ZIP">
     </a>
   </p>
 
@@ -78,17 +78,17 @@ Control your AI assistant silently without taking your hands off the keyboard du
 Click a direct download button below to get the latest release:
 
 <p align="center">
-  <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
-    <img src="https://img.shields.io/badge/⬇️_DIRECT_DOWNLOAD-securityHost.zip-00f5a0?style=for-the-badge&labelColor=0d1117&color=00f5a0&logo=windows&logoColor=00f5a0" height="46" alt="Download ZIP">
+  <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.exe">
+    <img src="https://img.shields.io/badge/⚡_DOWNLOAD_EXE-securityHost.exe_(Latest)-00f5a0?style=for-the-badge&labelColor=0d1117&color=00f5a0&logo=windows&logoColor=00f5a0" height="46" alt="Download EXE">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_EXE-securityHost.exe-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe&logo=windows&logoColor=00f2fe" height="46" alt="Download EXE">
+  <a href="https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip">
+    <img src="https://img.shields.io/badge/📦_DOWNLOAD_ZIP-securityHost.zip-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe&logo=windows&logoColor=00f2fe" height="46" alt="Download ZIP">
   </a>
 </p>
 
-- **ZIP Archive (Recommended)**: Download [`securityHost.zip`](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip) and extract it to any folder.
-- **Standalone Executable**: Download [`securityHost.exe`](https://github.com/ravanERROR/pavans_Ai/raw/main/securityHost.exe).
+- **Standalone Executable (Latest Release)**: Download [`securityHost.exe`](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.exe).
+- **ZIP Archive**: Download [`securityHost.zip`](https://github.com/ravanERROR/pavans_Ai/releases/latest/download/securityHost.zip) and extract it to any folder.
 
 ---
 
