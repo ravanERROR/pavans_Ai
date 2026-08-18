@@ -1,15 +1,22 @@
-# ⚡ InterviewAI Pro — Invisible AI Co-Pilot For Technical Interviews
-
-> **100% Invisible to Screen Share, Zoom, Microsoft Teams & Remote Desktop Tools**  
-> *Real-time AI voice transcription, multi-provider engine backup, instant screen snapshots, and discreet controls for passing technical interviews with total confidence.*
-
----
-
 <div align="center">
+
+  <!-- App Logo -->
+  <a href="https://github.com/ravanERROR/pavans_Ai">
+    <img src="https://raw.githubusercontent.com/ravanERROR/pavans_Ai/main/app.png" width="128" alt="securityHost App Logo" />
+  </a>
+
+  <h1>⚡ InterviewAI Pro — Invisible AI Co-Pilot</h1>
+
+  <p align="center">
+    <b>100% Invisible to Screen Share, Zoom, Microsoft Teams & Remote Desktop Tools</b><br/>
+    <i>Real-time AI voice transcription, multi-provider engine backup, instant screen snapshots, and discreet controls.</i>
+  </p>
+
+  <br/>
 
   <!-- Status Badges -->
   <p align="center">
-    <a href="https://github.com/ravanERROR/pavans_Ai/releases"><img src="https://img.shields.io/badge/Release-v1.0.77--Latest-00f2fe?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00f2fe" alt="Release"></a>
+    <a href="https://github.com/ravanERROR/pavans_Ai/releases"><img src="https://img.shields.io/badge/Release-Latest-00f2fe?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00f2fe" alt="Release"></a>
     <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-7000ff?style=for-the-badge&labelColor=0d1117&logo=windows&logoColor=7000ff" alt="Platform"></a>
     <a href="https://github.com/ravanERROR/pavans_Ai"><img src="https://img.shields.io/badge/Privacy-100%25%20Screen%20Share%20Invisible-00f5a0?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=00f5a0" alt="Privacy"></a>
   </p>
