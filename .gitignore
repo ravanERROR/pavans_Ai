@@ -10,7 +10,7 @@ Final_Interview/Package/
 hider_kingmain/embed_resources.o
 hider_kingmain/pavans_res.o
 hider_kingmain/pavans.exe
-hider_kingmain/TaskManagerHack.dll
+hider_kingmain/UIAssist.dll
 hider_kingmain/AccessibilityHelper.exe
 
 # --- Object files and executables ---
